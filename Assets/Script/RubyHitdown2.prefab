@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -3295694583366561232}
   - component: {fileID: 4396873114099343129}
   m_Layer: 0
-  m_Name: RubyHitdown
+  m_Name: RubyHitdown2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
